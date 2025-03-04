@@ -29,7 +29,7 @@
             "name": "To determine the wavelength of He-Ne laser light using single slit diffraction",
             "short-name": "single-slit-diffraction",
             "repo": "https://github.com/virtual-labs/exp-single-slit-diffraction-iitk",
-            "tag": "v1.0.2",
+            "tag": "v1.0.3",
             "deploy": true
         },
         {
