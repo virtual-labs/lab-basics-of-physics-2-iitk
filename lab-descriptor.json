@@ -1,102 +1,102 @@
 {
-    "broadArea": {
-        "name": "Physical Sciences",
-        "link": "http://vlab.co.in/broad-area-physical-sciences",
-        "code": "PHYSCI"
+  "broadArea": {
+    "name": "Physical Sciences",
+    "link": "http://vlab.co.in/broad-area-physical-sciences",
+    "code": "PHYSCI"
+  },
+  "lab": "Basics of Physics Lab 2",
+  "lab_display_name": "Basics of Physics Lab 2",
+  "phase": "3-ext",
+  "collegeName": "IITK",
+  "baseUrl": "bop2-iitk.vlabs.ac.in",
+  "introduction": "Basics of Physics Lab II is a virtual laboratory designed to provide an interactive and engaging learning experience for students. This lab covers a diverse range of fundamental physics concepts through a series of simulated experiments. Students will have the opportunity to delve into optics, explore mechanics and Investigate Electronic Circuits. By conducting these virtual experiments, students will gain hands-on experience, develop critical thinking and problem-solving skills, and reinforce their understanding of core physics principles",
+  "experiments": [
+    {
+      "name": "To determine the wavelength of sodium light by Newtonâs ring experiment",
+      "short-name": "newtons-ring-experiment",
+      "repo": "https://github.com/virtual-labs/exp-newtons-ring-experiment-iitk",
+      "tag": "v1.0.1",
+      "deploy": true
     },
-    "lab": "Basics of Physics Lab 2",
-    "lab_display_name": "Basics of Physics Lab 2",
-    "phase": "3-ext",
-    "collegeName": "IITK",
-    "baseUrl": "bop2-iitk.vlabs.ac.in",
-    "introduction": "Basics of Physics Lab II is a virtual laboratory designed to provide an interactive and engaging learning experience for students. This lab covers a diverse range of fundamental physics concepts through a series of simulated experiments. Students will have the opportunity to delve into optics, explore mechanics and Investigate Electronic Circuits. By conducting these virtual experiments, students will gain hands-on experience, develop critical thinking and problem-solving skills, and reinforce their understanding of core physics principles",
-    "experiments": [
-        {
-            "name": "To determine the wavelength of sodium light by Newton’s ring experiment",
-            "short-name": "newtons-ring-experiment",
-            "repo": "https://github.com/virtual-labs/exp-newtons-ring-experiment-iitk",
-            "tag": "v1.0.1",
-            "deploy": true
-        },
-        {
-            "name": "To determine the wavelength of different spectral lines of mercury light using plane transmission grating",
-            "short-name": "plane-transmission-grating",
-            "repo": "https://github.com/virtual-labs/exp-plane-transmission-grating-iitk",
-            "tag": "v1.0.1",
-            "deploy": true
-        },
-        {
-            "name": "To determine the wavelength of He-Ne laser light using single slit diffraction",
-            "short-name": "single-slit-diffraction",
-            "repo": "https://github.com/virtual-labs/exp-single-slit-diffraction-iitk",
-            "tag": "v1.0.3",
-            "deploy": true
-        },
-        {
-            "name": "To determine the value of acceleration due to gravity (g) using compound pendulum",
-            "short-name": "compound-pendulum",
-            "repo": "https://github.com/virtual-labs/exp-compound-pendulum-iitk",
-            "tag": "v1.0.1",
-            "deploy": true
-        },
-        {
-            "name": "To study Hall effect and determine Hall coefficient, carrier density and mobility of a given semiconductor material using Hall effect setup",
-            "short-name": "hall-effect-setup",
-            "repo": "https://github.com/virtual-labs/exp-hall-effect-setup-iitk",
-            "tag": "v1.0.1",
-            "deploy": true
-        },
-        {
-            "name": "To determine the variation of magnetic field with the distance along the axis of a current carrying coil and estimate the radius of the coil",
-            "short-name": "variation-magnetic-field",
-            "repo": "https://github.com/virtual-labs/exp-variation-of-magnetic-field-iitk",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "To determine the electrochemical equivalent (ECE) of copper",
-            "short-name": "electrochemical-equivalent-copper",
-            "repo": "https://github.com/virtual-labs/exp-electrochemical-equivalent-of-copper-iitk",
-            "tag": "v1.0.0",
-            "deploy": true
-        },
-        {
-            "name": "To calibrate the given ammeter and voltmeter by potentiometer",
-            "short-name": "voltmeter-by-potentiometer",
-            "repo": "https://github.com/virtual-labs/exp-voltmeter-by-potentiometer-iitk",
-            "tag": "v1.0.1",
-            "deploy": true
-        },
-        {
-            "name": "To draw hysteresis (B-H curve) of a specimen in the form of a transformer and to determine its hysteresis loss",
-            "short-name": "hysteresis-loss",
-            "repo": "https://github.com/virtual-labs/exp-hysteresis-loss-iitk",
-            "tag": "v1.0.1",
-            "deploy": true
-        },
-        {
-            "name": "To study the resonance condition of a series LCR circuit",
-            "short-name": "series-lcr-circuit",
-            "repo": "https://github.com/virtual-labs/exp-series-lcr-circuit-iitk",
-            "tag": "v1.0.1",
-            "deploy": true
-        }
-    ],
-    "targetAudience": {
-        "UG": [
-            "1st Year/ 2nd Year highest priority for development",
-            "3rd Year/ 4th Year next higher priority for development"
-        ],
-        "PG": []
+    {
+      "name": "To determine the wavelength of different spectral lines of mercury light using plane transmission grating",
+      "short-name": "plane-transmission-grating",
+      "repo": "https://github.com/virtual-labs/exp-plane-transmission-grating-iitk",
+      "tag": "v1.0.1",
+      "deploy": true
     },
-    "objective": "The primary objective of Basics of Physics Lab II is to provide students with a comprehensive and engaging learning experience in fundamental physics. Through interactive simulations of real-world laboratory experiments, the lab aims to enhance conceptual understanding, develop experimental skills, foster critical thinking and promote independent learning.",
-    "courseAlignment": {
-        "description": "The syllabi of this lab aligns to the following universities in India.",
-        "universities": [
-            "Delhi Technical University; AP101; B. Tech: Engineering Physics.",
-            "Guru Gobind Singh Indraprastha University; ETPH 103; B. Tech.",
-            "NIT Calicut; PH1002; B. Tech:Physics.",
-            "ISM Dhanbad; APC 31201; M.Sc : Physics."
-        ]
+    {
+      "name": "To determine the wavelength of He-Ne laser light using single slit diffraction",
+      "short-name": "single-slit-diffraction",
+      "repo": "https://github.com/virtual-labs/exp-single-slit-diffraction-iitk",
+      "tag": "v1.0.3",
+      "deploy": true
+    },
+    {
+      "name": "To determine the value of acceleration due to gravity (g) using compound pendulum",
+      "short-name": "compound-pendulum",
+      "repo": "https://github.com/virtual-labs/exp-compound-pendulum-iitk",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "To study Hall effect and determine Hall coefficient, carrier density and mobility of a given semiconductor material using Hall effect setup",
+      "short-name": "hall-effect-setup",
+      "repo": "https://github.com/virtual-labs/exp-hall-effect-setup-iitk",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "To determine the variation of magnetic field with the distance along the axis of a current carrying coil and estimate the radius of the coil",
+      "short-name": "variation-magnetic-field",
+      "repo": "https://github.com/virtual-labs/exp-variation-of-magnetic-field-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "To determine the electrochemical equivalent (ECE) of copper",
+      "short-name": "electrochemical-equivalent-copper",
+      "repo": "https://github.com/virtual-labs/exp-electrochemical-equivalent-of-copper-iitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "To calibrate the given ammeter and voltmeter by potentiometer",
+      "short-name": "voltmeter-by-potentiometer",
+      "repo": "https://github.com/virtual-labs/exp-voltmeter-by-potentiometer-iitk",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "To draw hysteresis (B-H curve) of a specimen in the form of a transformer and to determine its hysteresis loss",
+      "short-name": "hysteresis-loss",
+      "repo": "https://github.com/virtual-labs/exp-hysteresis-loss-iitk",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "To study the resonance condition of a series LCR circuit",
+      "short-name": "series-lcr-circuit",
+      "repo": "https://github.com/virtual-labs/exp-series-lcr-circuit-iitk",
+      "tag": "v1.0.1",
+      "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "1st Year/ 2nd Year highest priority for development",
+      "3rd Year/ 4th Year next higher priority for development"
+    ],
+    "PG": []
+  },
+  "objective": "The primary objective of Basics of Physics Lab II is to provide students with a comprehensive and engaging learning experience in fundamental physics. Through interactive simulations of real-world laboratory experiments, the lab aims to enhance conceptual understanding, develop experimental skills, foster critical thinking and promote independent learning.",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": [
+      "Delhi Technical University; AP101; B. Tech: Engineering Physics.",
+      "Guru Gobind Singh Indraprastha University; ETPH 103; B. Tech.",
+      "NIT Calicut; PH1002; B. Tech:Physics.",
+      "ISM Dhanbad; APC 31201; M.Sc : Physics."
+    ]
+  }
 }
