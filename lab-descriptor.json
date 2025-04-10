@@ -12,7 +12,7 @@
   "introduction": "Basics of Physics Lab II is a virtual laboratory designed to provide an interactive and engaging learning experience for students. This lab covers a diverse range of fundamental physics concepts through a series of simulated experiments. Students will have the opportunity to delve into optics, explore mechanics and Investigate Electronic Circuits. By conducting these virtual experiments, students will gain hands-on experience, develop critical thinking and problem-solving skills, and reinforce their understanding of core physics principles",
   "experiments": [
     {
-      "name": "To determine the wavelength of sodium light by Newtonâs ring experiment",
+      "name": "To determine the wavelength of sodium light by Newton's ring experiment",
       "short-name": "newtons-ring-experiment",
       "repo": "https://github.com/virtual-labs/exp-newtons-ring-experiment-iitk",
       "tag": "v1.0.2",
